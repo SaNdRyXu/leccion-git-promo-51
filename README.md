@@ -2,9 +2,10 @@
 
 ## Comandos Git
 
--`git clone <url>: clona un repositorio remoto en un repositorio local
--`git add -A
-- git commit -m "mensaje"
+-`git clone <url>: clona un repositorio remoto en un repositorio local`
+-`git add -A`
+- `git commit -m "mensaje"` 
+- `git push`
 
 - Lista 1
 - Lista 2
@@ -16,4 +17,5 @@
 
 - [Demo markdown](https://markdown-it.github.io/)
 
-### Configuración
+### Configuración1
+
